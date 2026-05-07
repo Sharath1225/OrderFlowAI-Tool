@@ -122,12 +122,12 @@ Only authenticated users can access the dashboard and AI assistant.
 
 | Technology      | Purpose                |
 | --------------- | ---------------------- |
-| React.js        | Frontend UI            |
+| Html       | Frontend UI            |
 | JavaScript      | Application Logic      |
 | CSS3            | Styling                |
-| LocalStorage    | Demo Data Persistence  |
+| Python Flask    | Demo Data Persistence  |
 | Gemini API      | NLP Intent Processing  |
-| Lucide React    | Icons                  |
+| SQLlite    | Icons                  |
 | Session Storage | Authentication Session |
 
 ---
