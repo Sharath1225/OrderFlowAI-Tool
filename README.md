@@ -138,12 +138,11 @@ Only authenticated users can access the dashboard and AI assistant.
 src/
 │
 ├── services/
-│   └── ai.js
+│   └── app.js
 │
-├── App.js
-├── index.css
-├── main.jsx
-└── package.json
+├── login.html
+├── index.html
+├── app.py
 ```
 
 ---
