@@ -345,7 +345,7 @@ Developed as an AI-powered manufacturing workflow management project using React
 # Team
 1) Sharath (https://github.com/Sharath1225)
 2) Akhilesh Shetty (https://github.com/)
-3) Amith S Devadiga (https://github.com/)
+3) Amith S Devadiga (https://github.com/Amith-S-Devadiga)
 4) Pranav (https://github.com/)
 
 ---
