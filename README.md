@@ -342,6 +342,13 @@ Developed as an AI-powered manufacturing workflow management project using React
 
 ---
 
+# Team
+Sharath (https://github.com/1225)
+Akhilesh Shetty (https://github.com/)
+Amith S Devadiga (https://github.com/)
+Pranav (https://github.com/)
+
+---
 # License
 
 This project is developed for educational and demonstration purposes.
